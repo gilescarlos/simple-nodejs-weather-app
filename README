@@ -1,0 +1,9 @@
+To execute: 
+Download Node.js
+Open Terminal at directory with all the files
+
+npm install --save express
+npm install ejs --save
+npm install body-parser --save
+
+npm start
